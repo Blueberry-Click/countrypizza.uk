@@ -11111,7 +11111,7 @@ p {
   text-decoration: underline;
 }
 .content p {
-  font-family: "Country Gold", roboto, Arial, sans-serif, -apple-system;
+  font-family: roboto, Arial, sans-serif, -apple-system;
   font-size: 1rem;
   line-height: 1.4;
   color: #383f45;
