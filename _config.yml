@@ -1,0 +1,20 @@
+url: "https://countrypizza.uk"
+title: Country Pizza
+logo: /images/logo.jpg
+locale: en_GB
+timezone: Europe/London
+address: 1 White Hart Fold, Todmorden, United Kingdom, OL14 7BD
+phone: 01706 614737
+email: countrypizzatod@hotmail.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: "Quality sourdough stone baked pizza & more. Eat in or take away. Licensed bar. Located in the heart of Todmorden, West Yorkshire, UK."
+      image: /images/logo.jpg
+      last_modified_at: "now"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
